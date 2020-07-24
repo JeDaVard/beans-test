@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="beans-test.us-east-1.elasticbeanstalk.com" id="59572d98-0838-46f4-bf81-bc1665e31e71" keyPath="$USER_HOME$/Downloads/entoursMain.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig host="beans-test.us-east-1.elasticbeanstalk.com" id="59572d98-0838-46f4-bf81-bc1665e31e71" keyPath="$USER_HOME$/.ssh/entoursMain.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </project>
